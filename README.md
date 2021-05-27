@@ -2,8 +2,8 @@
 ![](https://github.com/horaceyin/Battleship_grp30/blob/main/images/battleship2.jpg)
 ## Team member:
 ```
-Pang Sze Hang Karen (3035592650) - karenpsh54
 Wong Ho Yin Horace (3035762580) - horaceyin
+Pang Sze Hang Karen (3035592650) - karenpsh54
 ```
 ## Game objective:
 * Try and destroy all of your opponent’s (computer’s) ships before the computer destroys all of your ships
@@ -49,7 +49,7 @@ Wong Ho Yin Horace (3035762580) - horaceyin
     + `./battleship_grp30`
 
 5. Then, you will see the first screen.
-![](https://github.com/karenpsh54/battleship_grp30/blob/main/images/The%20first%20screen.png)
+![](https://github.com/horaceyin/Battleship_grp30/blob/main/images/The%20first%20screen.png)
 
 6. Enter the number: 1 - 4 to go to the next step.
     + `1: Start a new game, and require a new player name`
@@ -58,9 +58,8 @@ Wong Ho Yin Horace (3035762580) - horaceyin
     + `4: Quit the program`
    
 ## Contact us:
-**Pang Sze Hang Karen**
-> E-mail: karenpsh@connect.hku.hk
-
 **Wong Ho Yin Horace**
 > E-mail: u3576258@connect.hku.hk
 
+**Pang Sze Hang Karen**
+> E-mail: karenpsh@connect.hku.hk
