@@ -1,5 +1,5 @@
 # battleship_grp30
-![](https://github.com/karenpsh54/battleship_grp30/blob/main/images/battleship2.jpg)
+![](https://github.com/horaceyin/Battleship_grp30/blob/main/images/battleship2.jpg)
 ## Team member:
 ```
 Pang Sze Hang Karen (3035592650) - karenpsh54
